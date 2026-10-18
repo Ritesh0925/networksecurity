@@ -64,7 +64,7 @@ NetworkSecurity/
 
 Configure the following GitHub Secrets:
 
-```bash
+<!--```bash
 AWS_ACCESS_KEY_ID=
 
 AWS_SECRET_ACCESS_KEY=
@@ -75,7 +75,7 @@ AWS_ECR_LOGIN_URI=788614365622.dkr.ecr.us-east-1.amazonaws.com/networkssecurity
 
 ECR_REPOSITORY_NAME=networkssecurity
 ```
-
+-->
 ---
 
 # 🐳 Docker Setup on EC2
